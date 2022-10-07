@@ -1,0 +1,50 @@
+.navbar {
+  display: flex;
+  box-shadow: 0 0 2px 0 grey;
+  align-items: center;
+  font-size: 1em;
+  background-color:#f0ec00;
+  color: rgb(189, 4, 4);
+}
+
+.item{
+  padding: 10px;
+  text-decoration: none;
+  color: white;
+  margin: 0 0 0 auto;
+  margin-right: 3rem;
+}
+
+.logo {
+  font-size: 1.2em;
+  align-items: center;
+  display: flex;
+  margin-left: 3rem;
+}
+
+.text_logo{
+  margin-left: 0.5rem;
+}
+
+.logo_image {
+  max-width: 40px;
+}
+
+.group {
+  display:flex;
+  align-items: center;
+  font-size: 0.9em;
+}
+
+
+.sub{
+  font-size: 0.8em;
+
+}
+
+.material_icons {
+  font-size:1.8rem;
+}
+
+
+

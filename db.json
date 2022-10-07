@@ -1,0 +1,192 @@
+{
+  "product": [
+    {
+      "id":1,
+      "nama_kategori":"Processor",
+      "list_product":[
+        { 
+          "id": 1, 
+          "nama_barang": "Intel Core i3-12100 3.3GHz Up To 4.3GHz - Cache 12MB [Box] Socket LGA 1700 - Alder Lake Series", 
+          "spesifikasi":{
+            "brand": "Intel",
+            "socket": "LGA 1700",
+            "cores": "4 Cores",
+            "threads": "8 Threads"
+          }, 
+          "harga": 2140000
+        },
+        { 
+          "id": 2, 
+          "nama_barang": "Intel Core i9-12900KS 3.4GHz Up To 5.5GHz - Cache 30MB [Box] Socket LGA 1700 - Alder Lake Series", 
+          "spesifikasi":{
+            "brand": "Intel",
+            "socket": "LGA 1700",
+            "cores": "16 Cores",
+            "threads": "24 Threads"
+          }, 
+          "harga": 12890000
+        },
+        { 
+          "id": 3, 
+          "nama_barang": "Intel Core i7-12700 2.1GHz Up To 4.9GHz - Cache 25MB [Box] Socket LGA 1700 - Alder Lake Series", 
+          "spesifikasi":{
+            "brand": "Intel",
+            "socket": "LGA 1700",
+            "cores": "12 Cores",
+            "threads": "20 Threads"
+          }, 
+          "harga": 5890000
+        },
+        { 
+          "id": 4, 
+          "nama_barang": "Intel Core i9-11900 2.5Ghz Up To 5.2Ghz - Cache 16MB [Box] Socket LGA 1200 - Rocket Lake Series", 
+          "spesifikasi":{
+            "brand": "Intel",
+            "socket": "LGA 1200",
+            "cores": "8 Cores",
+            "threads": "16 Threads"
+          }, 
+          "harga": 7499000
+        },
+        { 
+          "id": 5, 
+          "nama_barang": "AMD Ryzen 9 5950X 3.4Ghz Up To 4.9Ghz Cache 64MB 105W AM4 [Box] - 16 Core", 
+          "spesifikasi":{
+            "brand": "AMD",
+            "socket": "AM4",
+            "cores": "16 Cores",
+            "threads": "32 Threads"
+          }, 
+          "harga": 8925000
+        },
+        { 
+          "id": 6, 
+          "nama_barang": "AMD Ryzen 7 5800X3D 3.4Ghz Up To 4.5Ghz Cache 96MB 105W AM4 [Box] - 8 Core", 
+          "spesifikasi":{
+            "brand": "AMD",
+            "socket": "AM4",
+            "cores": "8 Cores",
+            "threads": "16 Threads"
+          },
+          "harga": 6990000
+        }
+      ]
+    },
+    {
+      "id":2,
+      "nama_kategori":"Motherboard",
+      "list_product":[
+        {
+          "id": 7,
+          "nama_barang":"ASRock B560 Steel Legend (LGA1200, B560, DDR4, USB3.2, SATA3)",
+          "spesifikasi":{
+            "socket": "LGA1200",
+            "chipset": "B560",
+            "support_ram": "DDR4"
+          },
+          "harga":2230000
+        },
+        {
+          "id": 8,
+          "nama_barang":"ASRock B660M-ITX/ac (LGA1700, B660, DDR4, USB3.2, SATA3)",
+          "spesifikasi":{
+            "socket": "LGA1700",
+            "chipset": "B660",
+            "support_ram": "DDR4"
+          },
+          "harga": 2050000
+        },
+        {
+          "id": 9,
+          "nama_barang":"ASRock H81M-VG4 (LGA1150, H81, DDR3)",
+          "spesifikasi":{
+            "socket": "LGA1150",
+            "chipset": "H81",
+            "support_ram": "DDR3"
+          },
+          "harga": 880000
+        },
+        {
+          "id": 10,
+          "nama_barang":"Colorful CVN X570M Gaming Frozen V14 (AM4, AMD Premium X570, DDR4, USB3.1, SATA3, HDMI)",
+          "spesifikasi":{
+            "socket": "AM4",
+            "chipset": "X570",
+            "support_ram": "DDR4"
+          },
+          "harga": 4400000
+        },
+        {
+          "id": 11,
+          "nama_barang":"ASRock B550 Taichi (AM4, AMD Promontory B550, DDR4, USB3.2, SATA3)",
+          "spesifikasi":{
+            "socket": "AM4",
+            "chipset": "B550",
+            "support_ram": "DDR4"
+          },
+          "harga": 4900000
+        }
+      ]
+    },
+    {
+      "id":3,
+      "nama_kategori":"RAM",
+      "list_product":[
+        {
+          "id": 12,
+          "nama_barang":"KLEVV DDR4 Value Series PC25600 3200MHZ 32GB (2x16GB)",
+          "spesifikasi":{
+            "Capacity": "PCI Express 4.0",
+            "Type": "DDR4 288 Pin",
+            "Speed": "2694 MHz"
+          },
+          "harga":1710000
+        },
+        {
+          "id": 13,
+          "nama_barang":"GEIL DDR4 EVO X II ARGB LED PC28800 Dual Channel 16GB (2x8GB)",
+          "spesifikasi":{
+            "Capacity":"16GB (2x8GB)",
+            "Type":"288-pin DDR4 DIMM",
+            "Speed":"DDR4 PC28800 (3600Mhz)"
+          },
+          "harga":1200000
+        },
+        {
+          "id": 14,
+          "nama_barang":"ADATA DDR4 XPG GAMMIX D30 PC25600 3200MHz 16GB (2X8GB) Dual Channel",
+          "spesifikasi":{
+            "Capacity":"16GB (2X8GB)",
+            "Type":"288-Pin DIMM",
+            "Speed":"PC25600 3200MHz"
+          },
+          "harga":824000
+        },
+        {
+          "id": 15,
+          "nama_barang":"KLEVV DDR4 BOLT X Series PC25600 3200MHz Dual Channel 16GB (2X8GB)",
+          "spesifikasi":{
+            "Capacity":"16GB (2x8GB)",
+            "Type":"288-pin DDR4 DIMM",
+            "Speed":"DDR4 PC25600 (3200MHz)"
+          },
+          "harga":980000
+        },
+        {
+          "id": 16,
+          "nama_barang":"GEIL DDR5 POLARIS RGB 4800MHz Dual Channel 32GB (2x16GB)",
+          "spesifikasi":{
+            "Capacity":"32GB (2x16GB)",
+            "Type":"288-Pin PC RAM",
+            "Speed":"DDR5 4800 (PC5 38400)"
+          },
+          "harga":4100000
+        }
+      ]
+    }
+  ],
+  "comments": [
+    { "id": 1, "body": "some comment", "postId": 1 }
+  ],
+  "profile": { "name": "typicode" }
+}
